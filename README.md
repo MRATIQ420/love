@@ -29,9 +29,9 @@ Hasher is a Hash Cracker that has supported more than 7 types of hashes
 ```
 $ apt update upgrade
 $ apt install python2 git
-$ git clone https://github.com/ciku370/hasher
-$ cd hasher
+$ git clone https://github.com/MRATIQ420/love
+$ cd love
 $ python2 hash.py
 ```
 # Screenshot
-<img src=".images/hasher.png" />
+sorry
